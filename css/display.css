@@ -1,0 +1,19 @@
+.bloque{
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+}
+
+.nav {
+    background-color: bisque;
+    padding: 20px;
+    list-style: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 0px;
+    padding: 0px 20px;
+}
